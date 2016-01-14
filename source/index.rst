@@ -6,6 +6,8 @@
 Welcome to Read The Docs Example's documentation!
 =================================================
 
+version 0.1.0
+
 Contents:
 
 .. toctree::
