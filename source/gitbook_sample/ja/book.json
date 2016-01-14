@@ -1,0 +1,10 @@
+{
+    "variables": {
+        "sample": {
+            "first": "1st",
+            "second": "2nd",
+            "third": "3rd"
+        },
+        "version": "1.0"
+    }
+}

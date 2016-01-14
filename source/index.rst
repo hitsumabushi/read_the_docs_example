@@ -11,9 +11,10 @@ Read The Docs のお試し
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :glob:
+   :maxdepth: 1
 
-   first_step
+   gitbook_sample/ja/**
 
 
 
