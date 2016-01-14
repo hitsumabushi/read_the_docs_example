@@ -1,4 +1,4 @@
-# アカウントメニュー
+## アカウントメニュー
 * [サービス申し込み](account_menu/service_request.md)
 * [サービス解除](account_menu/service_cancellation.md)
 * アクティビティログ

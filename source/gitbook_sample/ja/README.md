@@ -1,10 +1,4 @@
-このドキュメントは、バージョン {{ book.version }} - {{ book.sample.first }} です。
-
-My file is {{ file.path }}
-Modified at {{ file.mtime }}
-Book built with GitBook {{ gitbook.version }}
-
-# コントロールパネルのヘルプ
+このドキュメントは、コントロールパネルのヘルプです。
 
 * [共通](common/README.md)
 * コンピューティング
