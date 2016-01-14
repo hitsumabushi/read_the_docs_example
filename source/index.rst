@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read The Docs Example's documentation!
+Read The Docs のお試し
 =================================================
 
-test
+お試しで使ってみる
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   first_step
 
 
 
