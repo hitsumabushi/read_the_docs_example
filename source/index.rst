@@ -8,13 +8,15 @@ Read The Docs のお試し
 
 このドキュメントはお試し。
 
+方針: 基本的に Commmonmarkで記載し、テーブルなどはHTMLで直書きする
+
 Contents:
 
 .. toctree::
    :glob:
    :maxdepth: 1
 
-   gitbook_sample/ja/**
+   gitbook_sample/ja/common/*
 
 
 
